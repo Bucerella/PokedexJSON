@@ -16,4 +16,6 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-![Pokedex](https://github.com/Bucerella/PokedexJSON/blob/master/screenshots/ss1.png)
+![Pokedex](https://github.com/Bucerella/PokedexJSON/blob/master/screenshots/ss1.png | width=250)
+
+![Pokedex Detail](https://github.com/Bucerella/PokedexJSON/blob/master/screenshots/ss2.png | width=250 )
